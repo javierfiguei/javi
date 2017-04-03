@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.negritas{
+	
+	font-weight:bold;
+	}
+	
+.lineas{
+ heigth:2px;
+ bacgroung-color:#00FF00;
+     }
+ 
+ 
+.divresultado{
+	margin-left:25%;
+	margin-right:25%;
+	text-align:center;
+      }
